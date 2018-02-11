@@ -1,0 +1,13 @@
+.user-information{
+  display: flex;
+}
+
+.pp{
+  border-radius: 50%;
+  overflow: hidden;
+  height:50px;
+  width: 50px;
+}
+.name{
+  margin-left:20px;
+}

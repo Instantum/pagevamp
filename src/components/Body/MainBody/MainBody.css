@@ -1,0 +1,16 @@
+.main-body{
+  margin: auto;
+  display: flex;
+  margin-bottom: 10px;
+}
+.main-body .left-part{
+  width: 60%;
+}
+.main-body .right-part{
+  margin-left: 20px;
+  width: 30%;
+}
+.main-body .vl {
+    border-left: 1px solid black;
+    height: auto;
+}

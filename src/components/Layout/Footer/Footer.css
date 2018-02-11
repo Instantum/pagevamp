@@ -1,0 +1,37 @@
+.footer{
+  margin: auto;
+  width:90%;
+  background-color: #bfbebe;
+  padding: 20px;
+}
+.footer hr {
+  border-color: #b7b1b1;
+  border-width: thin;
+}
+.footer1{
+  padding-right:40px;
+  display: flex;
+}
+.footer1 .logo{
+  width: 50%;
+  margin-right: 60px;
+  font-size: 17px;
+    color: #827c7c;
+}
+.footer1 .footer_links{
+  width: 20%;
+  font-size: 15px;
+  color: #827c7c;
+  margin-right: 30px;
+}
+
+.footer1 .footer_links .title{
+  font-size: 18px;
+  color: #545353;
+}
+
+.footer .copyright{
+  color: #545353;
+  text-align: center;
+  margin-bottom: 20px;
+}
