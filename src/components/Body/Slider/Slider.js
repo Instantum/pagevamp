@@ -1,10 +1,9 @@
 import React from 'react';
-
+import './Slider.css';
 
 const PhotoSlider = (props) => (
-  <div >
+  <div className="slider">
     this is PhotoSlider
-
   </div>
 )
 

@@ -11,3 +11,16 @@
 .name{
   margin-left:20px;
 }
+.btn-rm{
+  border-radius: 6px;
+  padding: 10px;
+  background: none;
+  border: 1px solid #8c8787;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.btn-rm:hover{
+  border: 1px solid #3dd2ff;
+  color: #3dd2ff;
+}

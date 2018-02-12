@@ -4,7 +4,7 @@ import MainBody from './MainBody/MainBody';
 import './Body.css';
 
 const Body = (props) => (
-  <div className="body">
+  <div className="body1">
     <PhotoSlider />
     <MainBody />
   </div>

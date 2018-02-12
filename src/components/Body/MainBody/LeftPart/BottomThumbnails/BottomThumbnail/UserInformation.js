@@ -12,6 +12,7 @@ class UserInformation extends Component{
           {this.props.name}<br/>
           {this.props.cp}
         </div>
+          <button className="btn-rm"> Read More</button>
       </div>
     )
   }

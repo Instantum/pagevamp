@@ -3,12 +3,12 @@
   border: 1px solid black;
   width: 90%;
   height:50px;
-  padding: 20px;
   margin-top: 30px;
   display: flex;
+  padding-top: 20px;
 }
 .header .nav-bar{
-  margin-left: 500px;
+  
 }
 .header .login{
   border: 1px solid black;
@@ -30,4 +30,8 @@
 .nav-link:hover{
   color:#3dd2ff;
   margin-right: 10px;
+}
+.logo{
+  margin-left: 20px;
+  overflow: hidden;
 }

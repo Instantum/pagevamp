@@ -9,8 +9,9 @@
 .main-body .right-part{
   margin-left: 20px;
   width: 30%;
+  padding: 20px;
 }
 .main-body .vl {
-    border-left: 1px solid black;
-    height: auto;
+  border-left: 1px solid black;
+  height: auto;
 }

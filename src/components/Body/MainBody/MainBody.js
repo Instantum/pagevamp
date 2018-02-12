@@ -4,7 +4,7 @@ import RightPart from './RightPart/RightPart';
 import LeftPart from './LeftPart/LeftPart';
 
 
-const PhotoSlider = (props) => (
+const MainBody = (props) => (
   <div className="main-body">
     <div className="left-part"> <LeftPart /></div>
     <div class="vl"></div>
@@ -12,4 +12,4 @@ const PhotoSlider = (props) => (
   </div>
 )
 
-export default PhotoSlider;
+export default MainBody;

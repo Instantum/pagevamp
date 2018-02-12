@@ -18,6 +18,7 @@ class BottomThumbnail extends Component{
           pp= {this.props.pp}
           name= {this.props.name}
           cp= {this.props.cp}
+          link = {this.props.profilelink}
         />
       </div>
     )
